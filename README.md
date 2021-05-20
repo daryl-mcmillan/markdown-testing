@@ -1,4 +1,4 @@
-```json with comments
+```json5
 {
   "test": "<test>" // OR null
 }
