@@ -1,5 +1,5 @@
 ```json5
 {
-  "test": "<test>" // OR null
+  "test": "<test>" // or null
 }
 ```
